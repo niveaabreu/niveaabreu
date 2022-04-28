@@ -1,4 +1,4 @@
-# Hi there
+# Hello everyone!
 
 <h3> 
 I'm Nívea , a Computer Engineering student at Insper.
@@ -43,7 +43,7 @@ I'm Nívea , a Computer Engineering student at Insper.
 # &#x1f4c8; GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niveaabreu&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=yeblu" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveaabreu&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=yeblu" alt="Most used Languages" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niveaabreu&count_private=true&theme=yeblu"  height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=niveaabreu&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=jolly" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveaabreu&layout=compact&hide=css,html&count_private=true&langs_count=8&theme=jolly" alt="Most used Languages" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niveaabreu&count_private=true&theme=jolly"  height="175"/>
 </div>
